@@ -1,4 +1,4 @@
-# DevChamps
+# Innovate Champs Ltd
 
-### Site: https://devchamps.com.br
-##### © DevChamps. Todos os direitos reservados
+### Site: https://innovatechamps.com
+##### © Innovate Champs Ltd. Todos os direitos reservados
